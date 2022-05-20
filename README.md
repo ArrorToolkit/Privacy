@@ -1,4 +1,4 @@
-# Toolkit for Apple
+# Develop Accelerator
 
 ## 特性
 
@@ -25,7 +25,7 @@
 
 ## 隐私政策
 
-Toolkit for Apple不会收集您的数据信息。
+Develop Accelerator不会收集您的数据信息。
 
 1、不会收集您的证书、负载、套装、令牌、图标等信息。
 
